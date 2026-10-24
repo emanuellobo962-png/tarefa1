@@ -1,0 +1,6 @@
+{
+  "name": "Banco Horizonte",
+  "description": "Protótipo bancário digital educativo para apresentações acadêmicas de Interação Humano-Computador (IHC), demonstrando falhas intencionais de usabilidade, visibilidade, feedback e prevenção de erros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
